@@ -7,6 +7,10 @@
 #include <string>
 #include "HashPlayer.h"
 #include "TimeHashing.h"
+#include <fstream>
+#include <sstream>
+#include <vector>
+
 
 
 using namespace std;
